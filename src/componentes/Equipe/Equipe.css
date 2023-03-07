@@ -1,0 +1,17 @@
+.equipe {
+    text-align: center;
+    padding: 12px;
+}
+
+.equipe h3 {
+    font-size: 30px;
+    border-bottom: 4px solid;
+    display: inline-block;
+    padding-bottom: 8px;
+}
+.candidatos {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+}

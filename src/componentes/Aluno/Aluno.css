@@ -1,0 +1,38 @@
+.candidato {
+    width: 280px;
+}
+ 
+.candidato .cabecalho {
+    background-color:  #bdbdbd;
+    border-radius: 20px 20px 0px 0px;
+    margin-top:8%;
+}
+.candidato img {
+    width: 100px;
+    border-radius: 50%;
+    position: relative;
+    bottom: -50px;
+}
+ 
+.candidato .rodape {
+    background: #FFFFFF;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.08);
+    border-radius: 0px 0px 10px 10px;
+    padding-top: 70px;
+    padding-bottom: 40px;
+}
+ 
+.candidato .rodape h4 {
+    color: #6278F7;
+    font-size: 25px;
+    line-height: 22px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+ 
+.candidato .rodape h5 {
+    font-size: 18px;
+    line-height: 22px;
+    color: #212121;
+    padding: 0 16px;
+}
